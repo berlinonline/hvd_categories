@@ -1,5 +1,7 @@
+
 # High-Value Dataset Categories
 ## Language code: **sl**
+
 ```mermaid
 flowchart LR
 http://data.europa.eu/bna/asd487ae75[High-value dataset categories]
@@ -64,6 +66,81 @@ click http://data.europa.eu/bna/c_4b74ea13 href "http://data.europa.eu/bna/c_4b7
 http://data.europa.eu/bna/c_b79e35eb-->http://data.europa.eu/bna/c_b151a0ba
 http://data.europa.eu/bna/c_b151a0ba["Nabori podatkov o celinskih plovnih poteh"]
 click http://data.europa.eu/bna/c_b151a0ba href "http://data.europa.eu/bna/c_b151a0ba"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_03ba8d92
+http://data.europa.eu/bna/c_03ba8d92["Običajni čas obratovanja zapornic in mostov"]
+click http://data.europa.eu/bna/c_03ba8d92 href "http://data.europa.eu/bna/c_03ba8d92"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1226dc1a
+http://data.europa.eu/bna/c_1226dc1a["Breg plovne poti ob povprečnem vodostaju"]
+click http://data.europa.eu/bna/c_1226dc1a href "http://data.europa.eu/bna/c_1226dc1a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1e787364
+http://data.europa.eu/bna/c_1e787364["Referenčni podatki za merilnike vodostaja, ki so pomembni za plovbo"]
+click http://data.europa.eu/bna/c_1e787364 href "http://data.europa.eu/bna/c_1e787364"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_2037ada4
+http://data.europa.eu/bna/c_2037ada4["Navigacijska pravila in priporočila"]
+click http://data.europa.eu/bna/c_2037ada4 href "http://data.europa.eu/bna/c_2037ada4"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_25f43866
+http://data.europa.eu/bna/c_25f43866["Odstotki stroškov uporabe infrastrukture na plovnih poteh"]
+click http://data.europa.eu/bna/c_25f43866 href "http://data.europa.eu/bna/c_25f43866"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_298ffb73
+http://data.europa.eu/bna/c_298ffb73["Povezave do zunanjih datotek XML s časom obratovanja omejevalnih struktur"]
+click http://data.europa.eu/bna/c_298ffb73 href "http://data.europa.eu/bna/c_298ffb73"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_3e8e3bf7
+http://data.europa.eu/bna/c_3e8e3bf7["Lokacija in značilnosti pristanišč in dokov za pretovarjanje"]
+click http://data.europa.eu/bna/c_3e8e3bf7 href "http://data.europa.eu/bna/c_3e8e3bf7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_407951ff
+http://data.europa.eu/bna/c_407951ff["Lokacija pristanišč in dokov za pretovarjanje"]
+click http://data.europa.eu/bna/c_407951ff href "http://data.europa.eu/bna/c_407951ff"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_593bc53d
+http://data.europa.eu/bna/c_593bc53d["Kratkoročne spremembe navigacijskih pripomočkov"]
+click http://data.europa.eu/bna/c_593bc53d href "http://data.europa.eu/bna/c_593bc53d"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_664c9e5a
+http://data.europa.eu/bna/c_664c9e5a["Meje plovne poti/navigacijskega kanala"]
+click http://data.europa.eu/bna/c_664c9e5a href "http://data.europa.eu/bna/c_664c9e5a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_66b946cb
+http://data.europa.eu/bna/c_66b946cb["Kratkoročne spremembe časa obratovanja zapornic in mostov"]
+click http://data.europa.eu/bna/c_66b946cb href "http://data.europa.eu/bna/c_66b946cb"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_7e19ef26
+http://data.europa.eu/bna/c_7e19ef26["Druge fizične omejitve na plovnih poteh"]
+click http://data.europa.eu/bna/c_7e19ef26 href "http://data.europa.eu/bna/c_7e19ef26"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_883d0205
+http://data.europa.eu/bna/c_883d0205["Obrisi zapornic in jezov"]
+click http://data.europa.eu/bna/c_883d0205 href "http://data.europa.eu/bna/c_883d0205"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_99bc517f
+http://data.europa.eu/bna/c_99bc517f["Posamezne nevarnosti na plovni poti/v navigacijskem kanalu pod vodo in nad njo"]
+click http://data.europa.eu/bna/c_99bc517f href "http://data.europa.eu/bna/c_99bc517f"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_9cbe4435
+http://data.europa.eu/bna/c_9cbe4435["Seznam navigacijskih pripomočkov in prometnih znakov"]
+click http://data.europa.eu/bna/c_9cbe4435 href "http://data.europa.eu/bna/c_9cbe4435"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b121e2f6
+http://data.europa.eu/bna/c_b121e2f6["Začasne ovire na plovnih poteh"]
+click http://data.europa.eu/bna/c_b121e2f6 href "http://data.europa.eu/bna/c_b121e2f6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b24028d7
+http://data.europa.eu/bna/c_b24028d7["Uradni navigacijski pripomočki (npr. boje, svetilniki, luči, plovbni znaki)"]
+click http://data.europa.eu/bna/c_b24028d7 href "http://data.europa.eu/bna/c_b24028d7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_bc8941d9
+http://data.europa.eu/bna/c_bc8941d9["Obalna konstrukcija"]
+click http://data.europa.eu/bna/c_bc8941d9 href "http://data.europa.eu/bna/c_bc8941d9"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_c19af83a
+http://data.europa.eu/bna/c_c19af83a["Os plovne poti s prikazom kilometrov"]
+click http://data.europa.eu/bna/c_c19af83a href "http://data.europa.eu/bna/c_c19af83a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e50004c6
+http://data.europa.eu/bna/c_e50004c6["Stanje rek, kanalov, zapornic in mostov"]
+click http://data.europa.eu/bna/c_e50004c6 href "http://data.europa.eu/bna/c_e50004c6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e5f69a04
+http://data.europa.eu/bna/c_e5f69a04["Sedanji in prihodnji vodostaji pri merilnih napravah"]
+click http://data.europa.eu/bna/c_e5f69a04 href "http://data.europa.eu/bna/c_e5f69a04"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f6886b00
+http://data.europa.eu/bna/c_f6886b00["Omejitve zaradi poplav in ledu"]
+click http://data.europa.eu/bna/c_f6886b00 href "http://data.europa.eu/bna/c_f6886b00"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f76b01e6
+http://data.europa.eu/bna/c_f76b01e6["Značilnosti plovne poti"]
+click http://data.europa.eu/bna/c_f76b01e6 href "http://data.europa.eu/bna/c_f76b01e6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fa2a1c3a
+http://data.europa.eu/bna/c_fa2a1c3a["Dolgotrajne ovire na plovnih poteh in zanesljivost"]
+click http://data.europa.eu/bna/c_fa2a1c3a href "http://data.europa.eu/bna/c_fa2a1c3a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fef208ab
+http://data.europa.eu/bna/c_fef208ab["Obrisi globine reke v navigacijskih kanalih"]
+click http://data.europa.eu/bna/c_fef208ab href "http://data.europa.eu/bna/c_fef208ab"
 http://data.europa.eu/bna/asd487ae75-->http://data.europa.eu/bna/c_dd313021
 http://data.europa.eu/bna/c_dd313021["Opazovanje zemlje in okolje"]
 click http://data.europa.eu/bna/c_dd313021 href "http://data.europa.eu/bna/c_dd313021"

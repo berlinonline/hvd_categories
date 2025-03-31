@@ -1,5 +1,7 @@
+
 # High-Value Dataset Categories
 ## Language code: **et**
+
 ```mermaid
 flowchart LR
 http://data.europa.eu/bna/asd487ae75[High-value dataset categories]
@@ -64,6 +66,81 @@ click http://data.europa.eu/bna/c_4b74ea13 href "http://data.europa.eu/bna/c_4b7
 http://data.europa.eu/bna/c_b79e35eb-->http://data.europa.eu/bna/c_b151a0ba
 http://data.europa.eu/bna/c_b151a0ba["Siseveeteede andmestikud"]
 click http://data.europa.eu/bna/c_b151a0ba href "http://data.europa.eu/bna/c_b151a0ba"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_03ba8d92
+http://data.europa.eu/bna/c_03ba8d92["Tavapärased lüüside ja sildade toimimisajad"]
+click http://data.europa.eu/bna/c_03ba8d92 href "http://data.europa.eu/bna/c_03ba8d92"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1226dc1a
+http://data.europa.eu/bna/c_1226dc1a["Veetee kallas (vee keskmisel tasemel)"]
+click http://data.europa.eu/bna/c_1226dc1a href "http://data.europa.eu/bna/c_1226dc1a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1e787364
+http://data.europa.eu/bna/c_1e787364["Navigatsiooni jaoks asjakohaste veetasememõõturite võrdlusandmed"]
+click http://data.europa.eu/bna/c_1e787364 href "http://data.europa.eu/bna/c_1e787364"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_2037ada4
+http://data.europa.eu/bna/c_2037ada4["Navigeerimiseeskirjad ja -soovitused"]
+click http://data.europa.eu/bna/c_2037ada4 href "http://data.europa.eu/bna/c_2037ada4"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_25f43866
+http://data.europa.eu/bna/c_25f43866["Veeteede infrastruktuuritasude määrad"]
+click http://data.europa.eu/bna/c_25f43866 href "http://data.europa.eu/bna/c_25f43866"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_298ffb73
+http://data.europa.eu/bna/c_298ffb73["Väliste xml-failide lingid koos piiravate struktuuride tööaegadega"]
+click http://data.europa.eu/bna/c_298ffb73 href "http://data.europa.eu/bna/c_298ffb73"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_3e8e3bf7
+http://data.europa.eu/bna/c_3e8e3bf7["Sadamate ja ümberlaadimispunktide asukohad ja tunnused"]
+click http://data.europa.eu/bna/c_3e8e3bf7 href "http://data.europa.eu/bna/c_3e8e3bf7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_407951ff
+http://data.europa.eu/bna/c_407951ff["Sadamate ja ümberlaadimispunktide asukohad"]
+click http://data.europa.eu/bna/c_407951ff href "http://data.europa.eu/bna/c_407951ff"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_593bc53d
+http://data.europa.eu/bna/c_593bc53d["Lühiajalised muutused navigatsiooniseadmetes"]
+click http://data.europa.eu/bna/c_593bc53d href "http://data.europa.eu/bna/c_593bc53d"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_664c9e5a
+http://data.europa.eu/bna/c_664c9e5a["Faarvaatri/navigatsioonikanali piirid"]
+click http://data.europa.eu/bna/c_664c9e5a href "http://data.europa.eu/bna/c_664c9e5a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_66b946cb
+http://data.europa.eu/bna/c_66b946cb["Lühiajalised muutused lüüside ja sildade toimimisaegades"]
+click http://data.europa.eu/bna/c_66b946cb href "http://data.europa.eu/bna/c_66b946cb"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_7e19ef26
+http://data.europa.eu/bna/c_7e19ef26["Muud füüsilised piirangud veeteedel"]
+click http://data.europa.eu/bna/c_7e19ef26 href "http://data.europa.eu/bna/c_7e19ef26"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_883d0205
+http://data.europa.eu/bna/c_883d0205["Lüüside ja tammide äärejooned"]
+click http://data.europa.eu/bna/c_883d0205 href "http://data.europa.eu/bna/c_883d0205"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_99bc517f
+http://data.europa.eu/bna/c_99bc517f["Isoleeritud veealused ja -pealsed ohud faarvaatris/navigatsioonikanalis"]
+click http://data.europa.eu/bna/c_99bc517f href "http://data.europa.eu/bna/c_99bc517f"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_9cbe4435
+http://data.europa.eu/bna/c_9cbe4435["Navigatsiooniseadmete ja liiklusmärkide loetelu"]
+click http://data.europa.eu/bna/c_9cbe4435 href "http://data.europa.eu/bna/c_9cbe4435"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b121e2f6
+http://data.europa.eu/bna/c_b121e2f6["Ajutised takistused faarvaatril"]
+click http://data.europa.eu/bna/c_b121e2f6 href "http://data.europa.eu/bna/c_b121e2f6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b24028d7
+http://data.europa.eu/bna/c_b24028d7["Ametlikud navigatsiooniseadmed (nt poid, paagid, tuled, ohutusmärgid)"]
+click http://data.europa.eu/bna/c_b24028d7 href "http://data.europa.eu/bna/c_b24028d7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_bc8941d9
+http://data.europa.eu/bna/c_bc8941d9["Kaldarajatis"]
+click http://data.europa.eu/bna/c_bc8941d9 href "http://data.europa.eu/bna/c_bc8941d9"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_c19af83a
+http://data.europa.eu/bna/c_c19af83a["Laevatee telg kilomeetrites"]
+click http://data.europa.eu/bna/c_c19af83a href "http://data.europa.eu/bna/c_c19af83a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e50004c6
+http://data.europa.eu/bna/c_e50004c6["Jõgede, kanalite, lüüside ja sildade olukord"]
+click http://data.europa.eu/bna/c_e50004c6 href "http://data.europa.eu/bna/c_e50004c6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e5f69a04
+http://data.europa.eu/bna/c_e5f69a04["Jooksvad ja prognoositavad veetasemenäidud mõõturitel"]
+click http://data.europa.eu/bna/c_e5f69a04 href "http://data.europa.eu/bna/c_e5f69a04"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f6886b00
+http://data.europa.eu/bna/c_f6886b00["Üleujutused ja jääoludest tingitud piirangud"]
+click http://data.europa.eu/bna/c_f6886b00 href "http://data.europa.eu/bna/c_f6886b00"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f76b01e6
+http://data.europa.eu/bna/c_f76b01e6["Faarvaatri tunnused"]
+click http://data.europa.eu/bna/c_f76b01e6 href "http://data.europa.eu/bna/c_f76b01e6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fa2a1c3a
+http://data.europa.eu/bna/c_fa2a1c3a["Pikaajalised takistused faarvaatril ja usaldusväärsus"]
+click http://data.europa.eu/bna/c_fa2a1c3a href "http://data.europa.eu/bna/c_fa2a1c3a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fef208ab
+http://data.europa.eu/bna/c_fef208ab["Veesügavusjooned navigatsioonikanalis"]
+click http://data.europa.eu/bna/c_fef208ab href "http://data.europa.eu/bna/c_fef208ab"
 http://data.europa.eu/bna/asd487ae75-->http://data.europa.eu/bna/c_dd313021
 http://data.europa.eu/bna/c_dd313021["Maa seire ja keskkond"]
 click http://data.europa.eu/bna/c_dd313021 href "http://data.europa.eu/bna/c_dd313021"

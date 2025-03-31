@@ -1,5 +1,7 @@
+
 # High-Value Dataset Categories
 ## Language code: **mt**
+
 ```mermaid
 flowchart LR
 http://data.europa.eu/bna/asd487ae75[High-value dataset categories]
@@ -64,6 +66,81 @@ click http://data.europa.eu/bna/c_4b74ea13 href "http://data.europa.eu/bna/c_4b7
 http://data.europa.eu/bna/c_b79e35eb-->http://data.europa.eu/bna/c_b151a0ba
 http://data.europa.eu/bna/c_b151a0ba["Settijiet tad-data dwar il-passaġġi fuq l-ilma interni"]
 click http://data.europa.eu/bna/c_b151a0ba href "http://data.europa.eu/bna/c_b151a0ba"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_03ba8d92
+http://data.europa.eu/bna/c_03ba8d92["Ħinijiet regolari ta’ operazzjoni ta’ mgħalaq u ta’ pontijiet"]
+click http://data.europa.eu/bna/c_03ba8d92 href "http://data.europa.eu/bna/c_03ba8d92"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1226dc1a
+http://data.europa.eu/bna/c_1226dc1a["Xatt tal-passaġġ fuq l-ilma fil-livell medju tal-ilma"]
+click http://data.europa.eu/bna/c_1226dc1a href "http://data.europa.eu/bna/c_1226dc1a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1e787364
+http://data.europa.eu/bna/c_1e787364["Data ta’ referenza għal kejl standard tal-livell tal-ilma rilevanti għan-navigazzjoni"]
+click http://data.europa.eu/bna/c_1e787364 href "http://data.europa.eu/bna/c_1e787364"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_2037ada4
+http://data.europa.eu/bna/c_2037ada4["Regoli u rakkomandazzjonijiet tan-navigazzjoni"]
+click http://data.europa.eu/bna/c_2037ada4 href "http://data.europa.eu/bna/c_2037ada4"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_25f43866
+http://data.europa.eu/bna/c_25f43866["Rati ta’ tariffi ta’ infrastruttura f’passaġġi fuq l-ilma"]
+click http://data.europa.eu/bna/c_25f43866 href "http://data.europa.eu/bna/c_25f43866"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_298ffb73
+http://data.europa.eu/bna/c_298ffb73["Links għall-fajls xml esterni bil-ħinijiet ta’ operazzjoni tal-istrutturi ta’ restrizzjoni"]
+click http://data.europa.eu/bna/c_298ffb73 href "http://data.europa.eu/bna/c_298ffb73"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_3e8e3bf7
+http://data.europa.eu/bna/c_3e8e3bf7["Post u karatteristiċi tal-portijiet u tas-siti tat-trażbord"]
+click http://data.europa.eu/bna/c_3e8e3bf7 href "http://data.europa.eu/bna/c_3e8e3bf7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_407951ff
+http://data.europa.eu/bna/c_407951ff["Pożizzjoni ta’ portijiet u ta’ siti ta’ trażbord"]
+click http://data.europa.eu/bna/c_407951ff href "http://data.europa.eu/bna/c_407951ff"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_593bc53d
+http://data.europa.eu/bna/c_593bc53d["Bidliet għal żmien qasir ta’ għajnuniet għan-navigazzjoni"]
+click http://data.europa.eu/bna/c_593bc53d href "http://data.europa.eu/bna/c_593bc53d"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_664c9e5a
+http://data.europa.eu/bna/c_664c9e5a["Konfini tal-kanal navigabbli"]
+click http://data.europa.eu/bna/c_664c9e5a href "http://data.europa.eu/bna/c_664c9e5a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_66b946cb
+http://data.europa.eu/bna/c_66b946cb["Bidliet għal żmien qasir fil-ħinijiet ta’ operazzjoni ta’ mgħalaq u ta’ pontijiet"]
+click http://data.europa.eu/bna/c_66b946cb href "http://data.europa.eu/bna/c_66b946cb"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_7e19ef26
+http://data.europa.eu/bna/c_7e19ef26["Limitazzjonijiet fiżiċi oħrajn fil-passaġġi fuq l-ilma"]
+click http://data.europa.eu/bna/c_7e19ef26 href "http://data.europa.eu/bna/c_7e19ef26"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_883d0205
+http://data.europa.eu/bna/c_883d0205["Kontorni tal-mgħalaq u tad-digi"]
+click http://data.europa.eu/bna/c_883d0205 href "http://data.europa.eu/bna/c_883d0205"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_99bc517f
+http://data.europa.eu/bna/c_99bc517f["Perikli iżolati matul il-kanal navigabbli ta’ taħt u ta’ fuq l-ilma"]
+click http://data.europa.eu/bna/c_99bc517f href "http://data.europa.eu/bna/c_99bc517f"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_9cbe4435
+http://data.europa.eu/bna/c_9cbe4435["Lista ta’ għajnuniet għan-navigazzjoni u tas-sinjali tat-traffiku"]
+click http://data.europa.eu/bna/c_9cbe4435 href "http://data.europa.eu/bna/c_9cbe4435"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b121e2f6
+http://data.europa.eu/bna/c_b121e2f6["Ostakoli temporanji fil-kanal navigabbli"]
+click http://data.europa.eu/bna/c_b121e2f6 href "http://data.europa.eu/bna/c_b121e2f6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b24028d7
+http://data.europa.eu/bna/c_b24028d7["Għajnuniet għan-navigazzjoni uffiċjali (eż. bagi, sinjalaturi, dwal, avviżi)"]
+click http://data.europa.eu/bna/c_b24028d7 href "http://data.europa.eu/bna/c_b24028d7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_bc8941d9
+http://data.europa.eu/bna/c_bc8941d9["Bini mal-linja tal-kosta"]
+click http://data.europa.eu/bna/c_bc8941d9 href "http://data.europa.eu/bna/c_bc8941d9"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_c19af83a
+http://data.europa.eu/bna/c_c19af83a["Assi tal-passaġġ fuq l-ilma b’indikazzjoni kilometrika"]
+click http://data.europa.eu/bna/c_c19af83a href "http://data.europa.eu/bna/c_c19af83a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e50004c6
+http://data.europa.eu/bna/c_e50004c6["Stat tax-xmajjar, tal-kanali, tal-mgħalaq u tal-pontijiet"]
+click http://data.europa.eu/bna/c_e50004c6 href "http://data.europa.eu/bna/c_e50004c6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e5f69a04
+http://data.europa.eu/bna/c_e5f69a04["Livelli tal-ilma fil-preżent u fil-ġejjieni fl-idrometri"]
+click http://data.europa.eu/bna/c_e5f69a04 href "http://data.europa.eu/bna/c_e5f69a04"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f6886b00
+http://data.europa.eu/bna/c_f6886b00["Restrizzjonijiet ikkawżati minn għargħar u silġ"]
+click http://data.europa.eu/bna/c_f6886b00 href "http://data.europa.eu/bna/c_f6886b00"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f76b01e6
+http://data.europa.eu/bna/c_f76b01e6["Karatteristiċi tal-kanal navigabbli"]
+click http://data.europa.eu/bna/c_f76b01e6 href "http://data.europa.eu/bna/c_f76b01e6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fa2a1c3a
+http://data.europa.eu/bna/c_fa2a1c3a["Ostakoli għal terminu twil fil-kanal navigabbli u l-affidabbiltà"]
+click http://data.europa.eu/bna/c_fa2a1c3a href "http://data.europa.eu/bna/c_fa2a1c3a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fef208ab
+http://data.europa.eu/bna/c_fef208ab["Kontorni ta’ fond fl-ilma fil-kanal ta’ navigazzjoni"]
+click http://data.europa.eu/bna/c_fef208ab href "http://data.europa.eu/bna/c_fef208ab"
 http://data.europa.eu/bna/asd487ae75-->http://data.europa.eu/bna/c_dd313021
 http://data.europa.eu/bna/c_dd313021["Data dwar l-osservazzjoni tad-dinja u l-ambjent"]
 click http://data.europa.eu/bna/c_dd313021 href "http://data.europa.eu/bna/c_dd313021"

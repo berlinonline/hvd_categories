@@ -12,6 +12,42 @@ EUVOC = Namespace('http://publications.europa.eu/ontology/euvoc#')
 HVD = Namespace('http://data.europa.eu/bna/')
 SKOSXL = Namespace('http://www.w3.org/2008/05/skos-xl#')
 
+class MermaidFlowchartConverter(object):
+
+    def __init__(self, config: dict):
+        self.lang = config['lang']
+
+    def header(self) -> str:
+        header = f"""
+# High-Value Dataset Categories
+## Language code: **{lang}**
+
+```mermaid
+flowchart LR"""
+        return header
+    
+    def scheme(self, scheme_uri: str, scheme_label: str) -> str:
+        scheme = f"""        
+{scheme_uri}[{result['scheme_label']}]
+click {scheme_uri} href \"{scheme_uri}\""""
+        return scheme
+
+    def top_level_concept(self, scheme_uri: str, top_concept_uri: str, top_concept_label: str) -> str:
+        concept = f"""{scheme_uri}-->{top_concept_uri}
+{top_concept_uri}[\"{top_concept_label}\"]
+click {top_concept_uri} href \"{top_concept_uri}\""""
+        return concept
+
+    def sub_level_concept(self, top_concept_uri: str, sub_concept_uri: str, sub_concept_label: str) -> str:
+        concept = f"""{top_concept_uri}-->{sub_concept_uri}
+{sub_concept_uri}[\"{sub_concept_label}\"]
+click {sub_concept_uri} href \"{sub_concept_uri}\""""
+        return concept
+
+    def footer(self) -> str:
+        footer = """```"""
+        return footer
+    
 parser = argparse.ArgumentParser(
     description="Iterate a SKOS scheme and generate a mermaid diagram from it.")
 parser.add_argument('--scheme_path',
@@ -65,10 +101,9 @@ WHERE {{
 }}
 '''
 
-print("# High-Value Dataset Categories")
-print(f"## Language code: **{lang}**")
-print("```mermaid")
-print("flowchart LR")
+converter = MermaidFlowchartConverter({'lang': lang})
+
+print(converter.header())
 for result in g.query(scheme_query):
     scheme_uri = result['scheme'].toPython()
     LOG.info(f"Scheme:  {result['scheme_label']} ({scheme_uri})")
@@ -78,14 +113,17 @@ for result in g.query(scheme_query):
     for result in g.query(query):
         top_concept_uri = result['concept'].toPython()
         LOG.info(f"    Top concept: {result['concept_label']} ({top_concept_uri})")
-        print(f'{scheme_uri}-->{top_concept_uri}')
-        print(f'{top_concept_uri}["{result['concept_label']}"]')
-        print(f'click {top_concept_uri} href "{top_concept_uri}"')
+        print(converter.top_level_concept(scheme_uri, top_concept_uri, result['concept_label']))
         query = sub_concept_query.replace('?top_concept', f"<{top_concept_uri}>")
         for result in g.query(query):
             sub_concept_uri = result['concept'].toPython()
-            print(f'{top_concept_uri}-->{sub_concept_uri}')
             LOG.info(f"        Sub-concept: {result['concept_label']} ({sub_concept_uri})")
-            print(f'{sub_concept_uri}["{result['concept_label']}"]')
-            print(f'click {sub_concept_uri} href "{sub_concept_uri}"')
-print("```")
+            print(converter.sub_level_concept(top_concept_uri, sub_concept_uri, result['concept_label']))
+            query = sub_concept_query.replace('?top_concept', f"<{sub_concept_uri}>")
+            for result in g.query(query):
+                sub_sub_concept_uri = result['concept'].toPython()
+                LOG.info(f"            Sub-concept: {result['concept_label']} ({sub_sub_concept_uri})")
+                print(converter.sub_level_concept(sub_concept_uri, sub_sub_concept_uri, result['concept_label']))
+
+print(converter.footer())
+

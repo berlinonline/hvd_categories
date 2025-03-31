@@ -1,5 +1,7 @@
+
 # High-Value Dataset Categories
 ## Language code: **hu**
+
 ```mermaid
 flowchart LR
 http://data.europa.eu/bna/asd487ae75[High-value dataset categories]
@@ -64,6 +66,81 @@ click http://data.europa.eu/bna/c_4b74ea13 href "http://data.europa.eu/bna/c_4b7
 http://data.europa.eu/bna/c_b79e35eb-->http://data.europa.eu/bna/c_b151a0ba
 http://data.europa.eu/bna/c_b151a0ba["Belvízi utakra vonatkozó adatkészletek"]
 click http://data.europa.eu/bna/c_b151a0ba href "http://data.europa.eu/bna/c_b151a0ba"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_03ba8d92
+http://data.europa.eu/bna/c_03ba8d92["A zsilipek és a hidak rendes üzemideje"]
+click http://data.europa.eu/bna/c_03ba8d92 href "http://data.europa.eu/bna/c_03ba8d92"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1226dc1a
+http://data.europa.eu/bna/c_1226dc1a["A vízi út partvonala közepes vízállásnál"]
+click http://data.europa.eu/bna/c_1226dc1a href "http://data.europa.eu/bna/c_1226dc1a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1e787364
+http://data.europa.eu/bna/c_1e787364["A hajózás szempontjából lényeges vízmércék referenciaadatai"]
+click http://data.europa.eu/bna/c_1e787364 href "http://data.europa.eu/bna/c_1e787364"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_2037ada4
+http://data.europa.eu/bna/c_2037ada4["Hajózási szabályok és ajánlások"]
+click http://data.europa.eu/bna/c_2037ada4 href "http://data.europa.eu/bna/c_2037ada4"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_25f43866
+http://data.europa.eu/bna/c_25f43866["A vízi infrastruktúra igénybevételéért fizetendő díjak"]
+click http://data.europa.eu/bna/c_25f43866 href "http://data.europa.eu/bna/c_25f43866"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_298ffb73
+http://data.europa.eu/bna/c_298ffb73["Hiperhivatkozások az áthaladást korlátozó építmények üzemidejét tartalmazó külső XML-fájlokra"]
+click http://data.europa.eu/bna/c_298ffb73 href "http://data.europa.eu/bna/c_298ffb73"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_3e8e3bf7
+http://data.europa.eu/bna/c_3e8e3bf7["A kikötők és átrakásra alkalmas területek helymeghatározása és jellemzői"]
+click http://data.europa.eu/bna/c_3e8e3bf7 href "http://data.europa.eu/bna/c_3e8e3bf7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_407951ff
+http://data.europa.eu/bna/c_407951ff["A kikötők és átrakásra alkalmas területek helymeghatározása"]
+click http://data.europa.eu/bna/c_407951ff href "http://data.europa.eu/bna/c_407951ff"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_593bc53d
+http://data.europa.eu/bna/c_593bc53d["A navigációs segédeszközök ideiglenes változásai"]
+click http://data.europa.eu/bna/c_593bc53d href "http://data.europa.eu/bna/c_593bc53d"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_664c9e5a
+http://data.europa.eu/bna/c_664c9e5a["A hajóút, illetve csatorna határai"]
+click http://data.europa.eu/bna/c_664c9e5a href "http://data.europa.eu/bna/c_664c9e5a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_66b946cb
+http://data.europa.eu/bna/c_66b946cb["A zsilipek és a hidak üzemidejének ideiglenes változásai"]
+click http://data.europa.eu/bna/c_66b946cb href "http://data.europa.eu/bna/c_66b946cb"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_7e19ef26
+http://data.europa.eu/bna/c_7e19ef26["Vízi utakon fennálló egyéb fizikai korlátozások"]
+click http://data.europa.eu/bna/c_7e19ef26 href "http://data.europa.eu/bna/c_7e19ef26"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_883d0205
+http://data.europa.eu/bna/c_883d0205["A zsilipek és a gátak körvonalai"]
+click http://data.europa.eu/bna/c_883d0205 href "http://data.europa.eu/bna/c_883d0205"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_99bc517f
+http://data.europa.eu/bna/c_99bc517f["A hajóút, illetve csatorna határai"]
+click http://data.europa.eu/bna/c_99bc517f href "http://data.europa.eu/bna/c_99bc517f"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_9cbe4435
+http://data.europa.eu/bna/c_9cbe4435["Navigációs segédeszközök és forgalmi jelzések jegyzéke"]
+click http://data.europa.eu/bna/c_9cbe4435 href "http://data.europa.eu/bna/c_9cbe4435"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b121e2f6
+http://data.europa.eu/bna/c_b121e2f6["A hajóúton lévő ideiglenes akadályok"]
+click http://data.europa.eu/bna/c_b121e2f6 href "http://data.europa.eu/bna/c_b121e2f6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b24028d7
+http://data.europa.eu/bna/c_b24028d7["Hivatalos navigációs segédletek (pl. bóják, világítótornyok, fényjelzések, figyelmeztető jelölések)"]
+click http://data.europa.eu/bna/c_b24028d7 href "http://data.europa.eu/bna/c_b24028d7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_bc8941d9
+http://data.europa.eu/bna/c_bc8941d9["Partvonali építmények"]
+click http://data.europa.eu/bna/c_bc8941d9 href "http://data.europa.eu/bna/c_bc8941d9"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_c19af83a
+http://data.europa.eu/bna/c_c19af83a["A vízi út tengelye kilométer-jelöléssel"]
+click http://data.europa.eu/bna/c_c19af83a href "http://data.europa.eu/bna/c_c19af83a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e50004c6
+http://data.europa.eu/bna/c_e50004c6["A folyók, csatornák, zsilipek és hidak állapota"]
+click http://data.europa.eu/bna/c_e50004c6 href "http://data.europa.eu/bna/c_e50004c6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e5f69a04
+http://data.europa.eu/bna/c_e5f69a04["A vízmércéknél érvényes aktuális és jövőbeni vízállások"]
+click http://data.europa.eu/bna/c_e5f69a04 href "http://data.europa.eu/bna/c_e5f69a04"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f6886b00
+http://data.europa.eu/bna/c_f6886b00["Áradás és jégveszély miatti korlátozások"]
+click http://data.europa.eu/bna/c_f6886b00 href "http://data.europa.eu/bna/c_f6886b00"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f76b01e6
+http://data.europa.eu/bna/c_f76b01e6["Hajóút jellemzői"]
+click http://data.europa.eu/bna/c_f76b01e6 href "http://data.europa.eu/bna/c_f76b01e6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fa2a1c3a
+http://data.europa.eu/bna/c_fa2a1c3a["A hajóút tartós akadályozása és megbízhatóság"]
+click http://data.europa.eu/bna/c_fa2a1c3a href "http://data.europa.eu/bna/c_fa2a1c3a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fef208ab
+http://data.europa.eu/bna/c_fef208ab["A mederfenék kontúrja a kijelölt hajóút alatt"]
+click http://data.europa.eu/bna/c_fef208ab href "http://data.europa.eu/bna/c_fef208ab"
 http://data.europa.eu/bna/asd487ae75-->http://data.europa.eu/bna/c_dd313021
 http://data.europa.eu/bna/c_dd313021["Földmegfigyelési és környezeti adatok"]
 click http://data.europa.eu/bna/c_dd313021 href "http://data.europa.eu/bna/c_dd313021"

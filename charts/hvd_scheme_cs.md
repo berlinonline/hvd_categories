@@ -1,5 +1,7 @@
+
 # High-Value Dataset Categories
 ## Language code: **cs**
+
 ```mermaid
 flowchart LR
 http://data.europa.eu/bna/asd487ae75[High-value dataset categories]
@@ -64,6 +66,81 @@ click http://data.europa.eu/bna/c_4b74ea13 href "http://data.europa.eu/bna/c_4b7
 http://data.europa.eu/bna/c_b79e35eb-->http://data.europa.eu/bna/c_b151a0ba
 http://data.europa.eu/bna/c_b151a0ba["Datové soubory týkající se vnitrozemských vodních cest"]
 click http://data.europa.eu/bna/c_b151a0ba href "http://data.europa.eu/bna/c_b151a0ba"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_03ba8d92
+http://data.europa.eu/bna/c_03ba8d92["Pravidelné provozní doby plavebních komor a mostů"]
+click http://data.europa.eu/bna/c_03ba8d92 href "http://data.europa.eu/bna/c_03ba8d92"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1226dc1a
+http://data.europa.eu/bna/c_1226dc1a["Břeh vodní cesty při střední hladině vody"]
+click http://data.europa.eu/bna/c_1226dc1a href "http://data.europa.eu/bna/c_1226dc1a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_1e787364
+http://data.europa.eu/bna/c_1e787364["Referenční údaje pro vodočty, které jsou důležité pro plavbu"]
+click http://data.europa.eu/bna/c_1e787364 href "http://data.europa.eu/bna/c_1e787364"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_2037ada4
+http://data.europa.eu/bna/c_2037ada4["Pravidla a doporučení týkající se plavby"]
+click http://data.europa.eu/bna/c_2037ada4 href "http://data.europa.eu/bna/c_2037ada4"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_25f43866
+http://data.europa.eu/bna/c_25f43866["Výše poplatků za užívání infrastruktury vodních cest"]
+click http://data.europa.eu/bna/c_25f43866 href "http://data.europa.eu/bna/c_25f43866"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_298ffb73
+http://data.europa.eu/bna/c_298ffb73["Odkazy na externí soubory xml s provozními dobami omezujících infrastruktur"]
+click http://data.europa.eu/bna/c_298ffb73 href "http://data.europa.eu/bna/c_298ffb73"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_3e8e3bf7
+http://data.europa.eu/bna/c_3e8e3bf7["Umístění a vlastnosti přístavů a překladišť"]
+click http://data.europa.eu/bna/c_3e8e3bf7 href "http://data.europa.eu/bna/c_3e8e3bf7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_407951ff
+http://data.europa.eu/bna/c_407951ff["Umístění přístavů a překladišť"]
+click http://data.europa.eu/bna/c_407951ff href "http://data.europa.eu/bna/c_407951ff"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_593bc53d
+http://data.europa.eu/bna/c_593bc53d["Krátkodobé změny pomůcek pro plavbu"]
+click http://data.europa.eu/bna/c_593bc53d href "http://data.europa.eu/bna/c_593bc53d"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_664c9e5a
+http://data.europa.eu/bna/c_664c9e5a["Hranice plavební dráhy / plavebního kanálu"]
+click http://data.europa.eu/bna/c_664c9e5a href "http://data.europa.eu/bna/c_664c9e5a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_66b946cb
+http://data.europa.eu/bna/c_66b946cb["Krátkodobé změny provozních dob plavebních komor a mostů"]
+click http://data.europa.eu/bna/c_66b946cb href "http://data.europa.eu/bna/c_66b946cb"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_7e19ef26
+http://data.europa.eu/bna/c_7e19ef26["Další fyzická omezení na vodních cestách"]
+click http://data.europa.eu/bna/c_7e19ef26 href "http://data.europa.eu/bna/c_7e19ef26"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_883d0205
+http://data.europa.eu/bna/c_883d0205["Obrysy zdymadel a přehrad"]
+click http://data.europa.eu/bna/c_883d0205 href "http://data.europa.eu/bna/c_883d0205"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_99bc517f
+http://data.europa.eu/bna/c_99bc517f["Izolovaná nebezpečí v plavební dráze / plavebním kanálu pod a nad hladinou"]
+click http://data.europa.eu/bna/c_99bc517f href "http://data.europa.eu/bna/c_99bc517f"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_9cbe4435
+http://data.europa.eu/bna/c_9cbe4435["Seznam pomůcek pro plavbu a dopravního značení"]
+click http://data.europa.eu/bna/c_9cbe4435 href "http://data.europa.eu/bna/c_9cbe4435"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b121e2f6
+http://data.europa.eu/bna/c_b121e2f6["Dočasné částečné uzávěry na vodní cestě"]
+click http://data.europa.eu/bna/c_b121e2f6 href "http://data.europa.eu/bna/c_b121e2f6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_b24028d7
+http://data.europa.eu/bna/c_b24028d7["Oficiální podpůrné prostředky pro plavbu (např. bóje, pobřežní znaky, majáky, výstražné značky)"]
+click http://data.europa.eu/bna/c_b24028d7 href "http://data.europa.eu/bna/c_b24028d7"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_bc8941d9
+http://data.europa.eu/bna/c_bc8941d9["Sestavení pobřežní čáry"]
+click http://data.europa.eu/bna/c_bc8941d9 href "http://data.europa.eu/bna/c_bc8941d9"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_c19af83a
+http://data.europa.eu/bna/c_c19af83a["Osa vodní cesty s uvedením kilometráže"]
+click http://data.europa.eu/bna/c_c19af83a href "http://data.europa.eu/bna/c_c19af83a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e50004c6
+http://data.europa.eu/bna/c_e50004c6["Stav řek, kanálů, zdymadel a mostů"]
+click http://data.europa.eu/bna/c_e50004c6 href "http://data.europa.eu/bna/c_e50004c6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_e5f69a04
+http://data.europa.eu/bna/c_e5f69a04["Stávající a budoucí vodní stavy u vodočtů"]
+click http://data.europa.eu/bna/c_e5f69a04 href "http://data.europa.eu/bna/c_e5f69a04"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f6886b00
+http://data.europa.eu/bna/c_f6886b00["Omezení způsobená povodní a ledem"]
+click http://data.europa.eu/bna/c_f6886b00 href "http://data.europa.eu/bna/c_f6886b00"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_f76b01e6
+http://data.europa.eu/bna/c_f76b01e6["Vlastnosti plavební dráhy"]
+click http://data.europa.eu/bna/c_f76b01e6 href "http://data.europa.eu/bna/c_f76b01e6"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fa2a1c3a
+http://data.europa.eu/bna/c_fa2a1c3a["Dlouhodobé překážky na plavební dráze a spolehlivost"]
+click http://data.europa.eu/bna/c_fa2a1c3a href "http://data.europa.eu/bna/c_fa2a1c3a"
+http://data.europa.eu/bna/c_b151a0ba-->http://data.europa.eu/bna/c_fef208ab
+http://data.europa.eu/bna/c_fef208ab["Obrysy hloubky vody v plavebním kanálu"]
+click http://data.europa.eu/bna/c_fef208ab href "http://data.europa.eu/bna/c_fef208ab"
 http://data.europa.eu/bna/asd487ae75-->http://data.europa.eu/bna/c_dd313021
 http://data.europa.eu/bna/c_dd313021["Země a životní prostředí"]
 click http://data.europa.eu/bna/c_dd313021 href "http://data.europa.eu/bna/c_dd313021"
