@@ -1,122 +1,97 @@
-concept_id,concept_label,concept_path
-c_38933a65,Abfall,Erdbeobachtung und Umwelt / Abfall
-c_c3de25e4,Adressen,Georaum / Adressen
-c_04bf94a3,Armut,Statistik / Armut
-c_4ac557e7,Ausgaben und Einnahmen des Staates,Statistik / Ausgaben und Einnahmen des Staates
-c_3af3368c,Beobachtungsmessdaten von Wetterstationen,Meteorologie / Beobachtungsmessdaten von Wetterstationen
-c_f6886b00,Beschränkungen infolge von Hochwasser und Eis,Binnenschifffahrtsdatensätze / Beschränkungen infolge von Hochwasser und Eis
-c_f6886b00,Beschränkungen infolge von Hochwasser und Eis,Mobilität / Binnenschifffahrtsdatensätze / Beschränkungen infolge von Hochwasser und Eis
-c_f2b50efd,Bevölkerung,Statistik / Bevölkerung
-c_317b9493,"Bevölkerung, Fertilität, Mortalität","Statistik / Bevölkerung, Fertilität, Mortalität"
-c_af646f5b,Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten,Erdbeobachtung und Umwelt / Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
-c_b151a0ba,Binnenschifffahrtsdatensätze,Mobilität / Binnenschifffahrtsdatensätze
-c_c873f344,Biogeografische Regionen,Erdbeobachtung und Umwelt / Biogeografische Regionen
-c_87a129d9,Boden,Erdbeobachtung und Umwelt / Boden
-c_b21e1296,Bodenbedeckung,Erdbeobachtung und Umwelt / Bodenbedeckung
-c_ad9ae929,Bodennutzung,Erdbeobachtung und Umwelt / Bodennutzung
-c_4ba9548e,Emissionen,Erdbeobachtung und Umwelt / Emissionen
-c_b7de66cd,Energiequellen,Erdbeobachtung und Umwelt / Energiequellen
-c_dd313021,Erdbeobachtung und Umwelt,Erdbeobachtung und Umwelt
-c_b7f6a4f3,Erhaltung der Natur und der biologischen Vielfalt,Erdbeobachtung und Umwelt / Erhaltung der Natur und der biologischen Vielfalt
-c_fd4e881c,Erwerbslosigkeit,Statistik / Erwerbslosigkeit
-c_a2c6dcd8,Erwerbstätigkeit,Statistik / Erwerbstätigkeit
-c_664c9e5a,Fahrwasser-/Fahrrinnengrenzen,Binnenschifffahrtsdatensätze / Fahrwasser-/Fahrrinnengrenzen
-c_664c9e5a,Fahrwasser-/Fahrrinnengrenzen,Mobilität / Binnenschifffahrtsdatensätze / Fahrwasser-/Fahrrinnengrenzen
-c_f76b01e6,Fahrwassermerkmale,Binnenschifffahrtsdatensätze / Fahrwassermerkmale
-c_f76b01e6,Fahrwassermerkmale,Mobilität / Binnenschifffahrtsdatensätze / Fahrwassermerkmale
-c_6a7250c1,Fertilität,Statistik / Fertilität
-c_6a3f6896,Flurstücke/Grundstücke (Katasterparzellen),Georaum / Flurstücke/Grundstücke (Katasterparzellen)
-c_63be22bd,Gebiete mit naturbedingten Risiken,Erdbeobachtung und Umwelt / Gebiete mit naturbedingten Risiken
-c_60182062,Gebäude,Georaum / Gebäude
-c_e5f69a04,Gegenwärtige und zukünftige Wasserstände an den Pegeln,Binnenschifffahrtsdatensätze / Gegenwärtige und zukünftige Wasserstände an den Pegeln
-c_e5f69a04,Gegenwärtige und zukünftige Wasserstände an den Pegeln,Mobilität / Binnenschifffahrtsdatensätze / Gegenwärtige und zukünftige Wasserstände an den Pegeln
-c_6c2bb82d,Geografische Bezeichnungen,Georaum / Geografische Bezeichnungen
-c_e3f55603,Geologie,Erdbeobachtung und Umwelt / Geologie
-c_ac64a52d,Georaum,Georaum
-c_06b1eec4,Gewässernetz,Erdbeobachtung und Umwelt / Gewässernetz
-c_56a1bf47,Grundlegende Angaben zum Unternehmen: Schlüsselattribute,Unternehmen und Eigentümerschaft von Unternehmen / Grundlegende Angaben zum Unternehmen: Schlüsselattribute
-c_c0022235,Harmonisierte Verbraucherpreisindizes,Statistik / Harmonisierte Verbraucherpreisindizes
-c_4d63300b,Horizontale Rechtsvorschriften,Erdbeobachtung und Umwelt / Horizontale Rechtsvorschriften
-c_315692ad,Höhe,Erdbeobachtung und Umwelt / Höhe
-c_25f43866,Höhe der Abgaben für die Wasserstraßen-Infrastruktur,Binnenschifffahrtsdatensätze / Höhe der Abgaben für die Wasserstraßen-Infrastruktur
-c_25f43866,Höhe der Abgaben für die Wasserstraßen-Infrastruktur,Mobilität / Binnenschifffahrtsdatensätze / Höhe der Abgaben für die Wasserstraßen-Infrastruktur
-c_2aed31f9,Industrieller Erzeugerpreisindex – Aufschlüsselung nach Tätigkeit,Statistik / Industrieller Erzeugerpreisindex – Aufschlüsselung nach Tätigkeit
-c_34abf8c1,Industrieproduktion,Statistik / Industrieproduktion
-c_99bc517f,Isolierte Gefahrenstellen im Fahrwasser/in der Fahrrinne unter und über Wasser,Binnenschifffahrtsdatensätze / Isolierte Gefahrenstellen im Fahrwasser/in der Fahrrinne unter und über Wasser
-c_99bc517f,Isolierte Gefahrenstellen im Fahrwasser/in der Fahrrinne unter und über Wasser,Mobilität / Binnenschifffahrtsdatensätze / Isolierte Gefahrenstellen im Fahrwasser/in der Fahrrinne unter und über Wasser
-c_59e64dd4,Klima,Erdbeobachtung und Umwelt / Klima
-c_36807466,Klimadaten: validierte Beobachtungen,Meteorologie / Klimadaten: validierte Beobachtungen
-c_dd8f4797,Konsolidierte Bruttoverschuldung des Staates,Statistik / Konsolidierte Bruttoverschuldung des Staates
-c_593bc53d,Kurzfristige Änderungen bei den Schifffahrtszeichen,Binnenschifffahrtsdatensätze / Kurzfristige Änderungen bei den Schifffahrtszeichen
-c_593bc53d,Kurzfristige Änderungen bei den Schifffahrtszeichen,Mobilität / Binnenschifffahrtsdatensätze / Kurzfristige Änderungen bei den Schifffahrtszeichen
-c_66b946cb,Kurzfristige Änderungen der Betriebszeiten von Schleusen und Brücken,Binnenschifffahrtsdatensätze / Kurzfristige Änderungen der Betriebszeiten von Schleusen und Brücken
-c_66b946cb,Kurzfristige Änderungen der Betriebszeiten von Schleusen und Brücken,Mobilität / Binnenschifffahrtsdatensätze / Kurzfristige Änderungen der Betriebszeiten von Schleusen und Brücken
-c_3e8e3bf7,Lage und Merkmale von Häfen und Umschlagstellen,Binnenschifffahrtsdatensätze / Lage und Merkmale von Häfen und Umschlagstellen
-c_3e8e3bf7,Lage und Merkmale von Häfen und Umschlagstellen,Mobilität / Binnenschifffahrtsdatensätze / Lage und Merkmale von Häfen und Umschlagstellen
-c_407951ff,Lage von Häfen und Umschlagstellen,Binnenschifffahrtsdatensätze / Lage von Häfen und Umschlagstellen
-c_407951ff,Lage von Häfen und Umschlagstellen,Mobilität / Binnenschifffahrtsdatensätze / Lage von Häfen und Umschlagstellen
-c_642643e6,Landwirtschaftliche Parzellen,Georaum / Landwirtschaftliche Parzellen
-c_fa2a1c3a,Langzeitbehinderungen im Fahrweg und Zuverlässigkeit,Binnenschifffahrtsdatensätze / Langzeitbehinderungen im Fahrweg und Zuverlässigkeit
-c_fa2a1c3a,Langzeitbehinderungen im Fahrweg und Zuverlässigkeit,Mobilität / Binnenschifffahrtsdatensätze / Langzeitbehinderungen im Fahrweg und Zuverlässigkeit
-c_424bb0b4,Laufende Gesundheitsausgaben,Statistik / Laufende Gesundheitsausgaben
-c_c3919aec,Lebensräume und Biotope,Erdbeobachtung und Umwelt / Lebensräume und Biotope
-c_298ffb73,Links zu den externen xml-Dateien mit Betriebszeiten einschränkender Infrastrukturen,Binnenschifffahrtsdatensätze / Links zu den externen xml-Dateien mit Betriebszeiten einschränkender Infrastrukturen
-c_298ffb73,Links zu den externen xml-Dateien mit Betriebszeiten einschränkender Infrastrukturen,Mobilität / Binnenschifffahrtsdatensätze / Links zu den externen xml-Dateien mit Betriebszeiten einschränkender Infrastrukturen
-c_9cbe4435,Liste der Navigationshilfen und Verkehrszeichen,Binnenschifffahrtsdatensätze / Liste der Navigationshilfen und Verkehrszeichen
-c_9cbe4435,Liste der Navigationshilfen und Verkehrszeichen,Mobilität / Binnenschifffahrtsdatensätze / Liste der Navigationshilfen und Verkehrszeichen
-c_63b37dd4,Luft,Erdbeobachtung und Umwelt / Luft
-c_e4358335,Lärm,Erdbeobachtung und Umwelt / Lärm
-c_f399050e,Meeresregionen,Erdbeobachtung und Umwelt / Meeresregionen
-c_164e0bf5,Meteorologie,Meteorologie
-c_4dd389c5,Mineralische Bodenschätze,Erdbeobachtung und Umwelt / Mineralische Bodenschätze
-c_b79e35eb,Mobilität,Mobilität
-c_4acb6bf3,Mortalität,Statistik / Mortalität
-c_13e3cf16,NWP-Modelldaten,Meteorologie / NWP-Modelldaten
-c_03ba8d92,Normale Betriebszeiten der Schleusen und Brücken,Binnenschifffahrtsdatensätze / Normale Betriebszeiten der Schleusen und Brücken
-c_03ba8d92,Normale Betriebszeiten der Schleusen und Brücken,Mobilität / Binnenschifffahrtsdatensätze / Normale Betriebszeiten der Schleusen und Brücken
-c_b24028d7,"Offizielle Schifffahrtszeichen (z. B. Tonnen, Baken, Leuchtzeichen, Tafelzeichen)","Binnenschifffahrtsdatensätze / Offizielle Schifffahrtszeichen (z. B. Tonnen, Baken, Leuchtzeichen, Tafelzeichen)"
-c_b24028d7,"Offizielle Schifffahrtszeichen (z. B. Tonnen, Baken, Leuchtzeichen, Tafelzeichen)","Mobilität / Binnenschifffahrtsdatensätze / Offizielle Schifffahrtszeichen (z. B. Tonnen, Baken, Leuchtzeichen, Tafelzeichen)"
-c_91185a85,Orthofotografie,Erdbeobachtung und Umwelt / Orthofotografie
-c_b40e6d46,Ozeanografisch-geografische Kennwerte,Erdbeobachtung und Umwelt / Ozeanografisch-geografische Kennwerte
-c_23385471,Potenzielle Arbeitskräfte,Statistik / Potenzielle Arbeitskräfte
-c_59c93ba5,Produktions- und Industrieanlagen,Erdbeobachtung und Umwelt / Produktions- und Industrieanlagen
-c_d13a4420,Radardaten,Meteorologie / Radardaten
-c_1e787364,Referenzdaten für die schifffahrtsrelevanten Pegel,Binnenschifffahrtsdatensätze / Referenzdaten für die schifffahrtsrelevanten Pegel
-c_1e787364,Referenzdaten für die schifffahrtsrelevanten Pegel,Mobilität / Binnenschifffahrtsdatensätze / Referenzdaten für die schifffahrtsrelevanten Pegel
-c_fbd2fc3f,Referenzparzellen,Georaum / Referenzparzellen
-c_83aa10a6,Schutzgebiete,Erdbeobachtung und Umwelt / Schutzgebiete
-c_7e19ef26,Sonstige physische Beschränkungen auf Wasserstraßen,Binnenschifffahrtsdatensätze / Sonstige physische Beschränkungen auf Wasserstraßen
-c_7e19ef26,Sonstige physische Beschränkungen auf Wasserstraßen,Mobilität / Binnenschifffahrtsdatensätze / Sonstige physische Beschränkungen auf Wasserstraßen
-c_e1da4e07,Statistik,Statistik
-c_20cd11bb,"Statistik des internationalen Warenverkehrs der EU – Ausfuhren und Einfuhren Aufschlüsselung gleichzeitig nach Partnern, Produkten und Warenströmen","Statistik / Statistik des internationalen Warenverkehrs der EU – Ausfuhren und Einfuhren Aufschlüsselung gleichzeitig nach Partnern, Produkten und Warenströmen"
-c_fef208ab,Tiefenlinien in der Fahrrinne,Binnenschifffahrtsdatensätze / Tiefenlinien in der Fahrrinne
-c_fef208ab,Tiefenlinien in der Fahrrinne,Mobilität / Binnenschifffahrtsdatensätze / Tiefenlinien in der Fahrrinne
-c_a3767648,Tourismusströme in Europa,Statistik / Tourismusströme in Europa
-c_1226dc1a,Ufer der Wasserstraße bei Mittelwasser,Binnenschifffahrtsdatensätze / Ufer der Wasserstraße bei Mittelwasser
-c_1226dc1a,Ufer der Wasserstraße bei Mittelwasser,Mobilität / Binnenschifffahrtsdatensätze / Ufer der Wasserstraße bei Mittelwasser
-c_bc8941d9,Uferbefestigung,Binnenschifffahrtsdatensätze / Uferbefestigung
-c_bc8941d9,Uferbefestigung,Mobilität / Binnenschifffahrtsdatensätze / Uferbefestigung
-c_883d0205,Umrisse der Schleusen und Wehre,Binnenschifffahrtsdatensätze / Umrisse der Schleusen und Wehre
-c_883d0205,Umrisse der Schleusen und Wehre,Mobilität / Binnenschifffahrtsdatensätze / Umrisse der Schleusen und Wehre
-c_92874eb2,Umweltgesamtrechnungen und -statistiken,Statistik / Umweltgesamtrechnungen und -statistiken
-c_7b8fbb64,Umweltüberwachungseinrichtungen,Erdbeobachtung und Umwelt / Umweltüberwachungseinrichtungen
-c_a8b937c4,Ungleichheit,Statistik / Ungleichheit
-c_a9135398,Unternehmen und Eigentümerschaft von Unternehmen,Unternehmen und Eigentümerschaft von Unternehmen
-c_8f0fac04,Unternehmensunterlagen und -abschlüsse,Unternehmen und Eigentümerschaft von Unternehmen / Unternehmensunterlagen und -abschlüsse
-c_a49ec591,Verkaufsmengen nach Tätigkeit,Statistik / Verkaufsmengen nach Tätigkeit
-c_4b74ea13,Verkehrsnetze,Mobilität / Verkehrsnetze
-c_793164b6,Verteilung der Arten,Erdbeobachtung und Umwelt / Verteilung der Arten
-c_9427236f,Verwaltungseinheiten,Georaum / Verwaltungseinheiten
-c_b72b721f,Volkswirtschaftliche Gesamtrechnungen – BIP-Hauptaggregate,Statistik / Volkswirtschaftliche Gesamtrechnungen – BIP-Hauptaggregate
-c_95da87c7,Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für Kapitalgesellschaften,Statistik / Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für Kapitalgesellschaften
-c_59627af3,Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für private Haushalte,Statistik / Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für private Haushalte
-c_2037ada4,Vorschriften und Empfehlungen für die Schifffahrt,Binnenschifffahrtsdatensätze / Vorschriften und Empfehlungen für die Schifffahrt
-c_2037ada4,Vorschriften und Empfehlungen für die Schifffahrt,Mobilität / Binnenschifffahrtsdatensätze / Vorschriften und Empfehlungen für die Schifffahrt
-c_b121e2f6,Vorübergehende Hindernisse im Fahrwasser,Binnenschifffahrtsdatensätze / Vorübergehende Hindernisse im Fahrwasser
-c_b121e2f6,Vorübergehende Hindernisse im Fahrwasser,Mobilität / Binnenschifffahrtsdatensätze / Vorübergehende Hindernisse im Fahrwasser
-c_43f88346,Wasser,Erdbeobachtung und Umwelt / Wasser
-c_c19af83a,Wasserstraßenachse mit Kilometerangabe,Binnenschifffahrtsdatensätze / Wasserstraßenachse mit Kilometerangabe
-c_c19af83a,Wasserstraßenachse mit Kilometerangabe,Mobilität / Binnenschifffahrtsdatensätze / Wasserstraßenachse mit Kilometerangabe
-c_be47b010,Wetterwarnungen,Meteorologie / Wetterwarnungen
-c_e50004c6,"Zustand der Flüsse, Kanäle, Schleusen und Brücken","Binnenschifffahrtsdatensätze / Zustand der Flüsse, Kanäle, Schleusen und Brücken"
-c_e50004c6,"Zustand der Flüsse, Kanäle, Schleusen und Brücken","Mobilität / Binnenschifffahrtsdatensätze / Zustand der Flüsse, Kanäle, Schleusen und Brücken"
+concept_id,hvd_tag,concept_path,concept_label
+c_dd313021,HVD_dd313021,Erdbeobachtung und Umwelt,Erdbeobachtung und Umwelt
+c_38933a65,HVD_38933a65,Erdbeobachtung und Umwelt / Abfall,Abfall
+c_af646f5b,HVD_af646f5b,Erdbeobachtung und Umwelt / Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten,Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
+c_c873f344,HVD_c873f344,Erdbeobachtung und Umwelt / Biogeografische Regionen,Biogeografische Regionen
+c_87a129d9,HVD_87a129d9,Erdbeobachtung und Umwelt / Boden,Boden
+c_b21e1296,HVD_b21e1296,Erdbeobachtung und Umwelt / Bodenbedeckung,Bodenbedeckung
+c_ad9ae929,HVD_ad9ae929,Erdbeobachtung und Umwelt / Bodennutzung,Bodennutzung
+c_4ba9548e,HVD_4ba9548e,Erdbeobachtung und Umwelt / Emissionen,Emissionen
+c_b7de66cd,HVD_b7de66cd,Erdbeobachtung und Umwelt / Energiequellen,Energiequellen
+c_b7f6a4f3,HVD_b7f6a4f3,Erdbeobachtung und Umwelt / Erhaltung der Natur und der biologischen Vielfalt,Erhaltung der Natur und der biologischen Vielfalt
+c_63be22bd,HVD_63be22bd,Erdbeobachtung und Umwelt / Gebiete mit naturbedingten Risiken,Gebiete mit naturbedingten Risiken
+c_e3f55603,HVD_e3f55603,Erdbeobachtung und Umwelt / Geologie,Geologie
+c_06b1eec4,HVD_06b1eec4,Erdbeobachtung und Umwelt / Gewässernetz,Gewässernetz
+c_4d63300b,HVD_4d63300b,Erdbeobachtung und Umwelt / Horizontale Rechtsvorschriften,Horizontale Rechtsvorschriften
+c_315692ad,HVD_315692ad,Erdbeobachtung und Umwelt / Höhe,Höhe
+c_59e64dd4,HVD_59e64dd4,Erdbeobachtung und Umwelt / Klima,Klima
+c_c3919aec,HVD_c3919aec,Erdbeobachtung und Umwelt / Lebensräume und Biotope,Lebensräume und Biotope
+c_63b37dd4,HVD_63b37dd4,Erdbeobachtung und Umwelt / Luft,Luft
+c_e4358335,HVD_e4358335,Erdbeobachtung und Umwelt / Lärm,Lärm
+c_f399050e,HVD_f399050e,Erdbeobachtung und Umwelt / Meeresregionen,Meeresregionen
+c_4dd389c5,HVD_4dd389c5,Erdbeobachtung und Umwelt / Mineralische Bodenschätze,Mineralische Bodenschätze
+c_91185a85,HVD_91185a85,Erdbeobachtung und Umwelt / Orthofotografie,Orthofotografie
+c_b40e6d46,HVD_b40e6d46,Erdbeobachtung und Umwelt / Ozeanografisch-geografische Kennwerte,Ozeanografisch-geografische Kennwerte
+c_59c93ba5,HVD_59c93ba5,Erdbeobachtung und Umwelt / Produktions- und Industrieanlagen,Produktions- und Industrieanlagen
+c_83aa10a6,HVD_83aa10a6,Erdbeobachtung und Umwelt / Schutzgebiete,Schutzgebiete
+c_7b8fbb64,HVD_7b8fbb64,Erdbeobachtung und Umwelt / Umweltüberwachungseinrichtungen,Umweltüberwachungseinrichtungen
+c_793164b6,HVD_793164b6,Erdbeobachtung und Umwelt / Verteilung der Arten,Verteilung der Arten
+c_43f88346,HVD_43f88346,Erdbeobachtung und Umwelt / Wasser,Wasser
+c_ac64a52d,HVD_ac64a52d,Georaum,Georaum
+c_c3de25e4,HVD_c3de25e4,Georaum / Adressen,Adressen
+c_6a3f6896,HVD_6a3f6896,Georaum / Flurstücke/Grundstücke (Katasterparzellen),Flurstücke/Grundstücke (Katasterparzellen)
+c_60182062,HVD_60182062,Georaum / Gebäude,Gebäude
+c_6c2bb82d,HVD_6c2bb82d,Georaum / Geografische Bezeichnungen,Geografische Bezeichnungen
+c_642643e6,HVD_642643e6,Georaum / Landwirtschaftliche Parzellen,Landwirtschaftliche Parzellen
+c_fbd2fc3f,HVD_fbd2fc3f,Georaum / Referenzparzellen,Referenzparzellen
+c_9427236f,HVD_9427236f,Georaum / Verwaltungseinheiten,Verwaltungseinheiten
+c_164e0bf5,HVD_164e0bf5,Meteorologie,Meteorologie
+c_3af3368c,HVD_3af3368c,Meteorologie / Beobachtungsmessdaten von Wetterstationen,Beobachtungsmessdaten von Wetterstationen
+c_36807466,HVD_36807466,Meteorologie / Klimadaten: validierte Beobachtungen,Klimadaten: validierte Beobachtungen
+c_13e3cf16,HVD_13e3cf16,Meteorologie / NWP-Modelldaten,NWP-Modelldaten
+c_d13a4420,HVD_d13a4420,Meteorologie / Radardaten,Radardaten
+c_be47b010,HVD_be47b010,Meteorologie / Wetterwarnungen,Wetterwarnungen
+c_b79e35eb,HVD_b79e35eb,Mobilität,Mobilität
+c_b151a0ba,HVD_b151a0ba,Mobilität / Binnenschifffahrtsdatensätze,Binnenschifffahrtsdatensätze
+c_f6886b00,HVD_f6886b00,Mobilität / Binnenschifffahrtsdatensätze / Beschränkungen infolge von Hochwasser und Eis,Beschränkungen infolge von Hochwasser und Eis
+c_664c9e5a,HVD_664c9e5a,Mobilität / Binnenschifffahrtsdatensätze / Fahrwasser-/Fahrrinnengrenzen,Fahrwasser-/Fahrrinnengrenzen
+c_f76b01e6,HVD_f76b01e6,Mobilität / Binnenschifffahrtsdatensätze / Fahrwassermerkmale,Fahrwassermerkmale
+c_e5f69a04,HVD_e5f69a04,Mobilität / Binnenschifffahrtsdatensätze / Gegenwärtige und zukünftige Wasserstände an den Pegeln,Gegenwärtige und zukünftige Wasserstände an den Pegeln
+c_25f43866,HVD_25f43866,Mobilität / Binnenschifffahrtsdatensätze / Höhe der Abgaben für die Wasserstraßen-Infrastruktur,Höhe der Abgaben für die Wasserstraßen-Infrastruktur
+c_99bc517f,HVD_99bc517f,Mobilität / Binnenschifffahrtsdatensätze / Isolierte Gefahrenstellen im Fahrwasser/in der Fahrrinne unter und über Wasser,Isolierte Gefahrenstellen im Fahrwasser/in der Fahrrinne unter und über Wasser
+c_593bc53d,HVD_593bc53d,Mobilität / Binnenschifffahrtsdatensätze / Kurzfristige Änderungen bei den Schifffahrtszeichen,Kurzfristige Änderungen bei den Schifffahrtszeichen
+c_66b946cb,HVD_66b946cb,Mobilität / Binnenschifffahrtsdatensätze / Kurzfristige Änderungen der Betriebszeiten von Schleusen und Brücken,Kurzfristige Änderungen der Betriebszeiten von Schleusen und Brücken
+c_3e8e3bf7,HVD_3e8e3bf7,Mobilität / Binnenschifffahrtsdatensätze / Lage und Merkmale von Häfen und Umschlagstellen,Lage und Merkmale von Häfen und Umschlagstellen
+c_407951ff,HVD_407951ff,Mobilität / Binnenschifffahrtsdatensätze / Lage von Häfen und Umschlagstellen,Lage von Häfen und Umschlagstellen
+c_fa2a1c3a,HVD_fa2a1c3a,Mobilität / Binnenschifffahrtsdatensätze / Langzeitbehinderungen im Fahrweg und Zuverlässigkeit,Langzeitbehinderungen im Fahrweg und Zuverlässigkeit
+c_298ffb73,HVD_298ffb73,Mobilität / Binnenschifffahrtsdatensätze / Links zu den externen xml-Dateien mit Betriebszeiten einschränkender Infrastrukturen,Links zu den externen xml-Dateien mit Betriebszeiten einschränkender Infrastrukturen
+c_9cbe4435,HVD_9cbe4435,Mobilität / Binnenschifffahrtsdatensätze / Liste der Navigationshilfen und Verkehrszeichen,Liste der Navigationshilfen und Verkehrszeichen
+c_03ba8d92,HVD_03ba8d92,Mobilität / Binnenschifffahrtsdatensätze / Normale Betriebszeiten der Schleusen und Brücken,Normale Betriebszeiten der Schleusen und Brücken
+c_b24028d7,HVD_b24028d7,"Mobilität / Binnenschifffahrtsdatensätze / Offizielle Schifffahrtszeichen (z. B. Tonnen, Baken, Leuchtzeichen, Tafelzeichen)","Offizielle Schifffahrtszeichen (z. B. Tonnen, Baken, Leuchtzeichen, Tafelzeichen)"
+c_1e787364,HVD_1e787364,Mobilität / Binnenschifffahrtsdatensätze / Referenzdaten für die schifffahrtsrelevanten Pegel,Referenzdaten für die schifffahrtsrelevanten Pegel
+c_7e19ef26,HVD_7e19ef26,Mobilität / Binnenschifffahrtsdatensätze / Sonstige physische Beschränkungen auf Wasserstraßen,Sonstige physische Beschränkungen auf Wasserstraßen
+c_fef208ab,HVD_fef208ab,Mobilität / Binnenschifffahrtsdatensätze / Tiefenlinien in der Fahrrinne,Tiefenlinien in der Fahrrinne
+c_1226dc1a,HVD_1226dc1a,Mobilität / Binnenschifffahrtsdatensätze / Ufer der Wasserstraße bei Mittelwasser,Ufer der Wasserstraße bei Mittelwasser
+c_bc8941d9,HVD_bc8941d9,Mobilität / Binnenschifffahrtsdatensätze / Uferbefestigung,Uferbefestigung
+c_883d0205,HVD_883d0205,Mobilität / Binnenschifffahrtsdatensätze / Umrisse der Schleusen und Wehre,Umrisse der Schleusen und Wehre
+c_2037ada4,HVD_2037ada4,Mobilität / Binnenschifffahrtsdatensätze / Vorschriften und Empfehlungen für die Schifffahrt,Vorschriften und Empfehlungen für die Schifffahrt
+c_b121e2f6,HVD_b121e2f6,Mobilität / Binnenschifffahrtsdatensätze / Vorübergehende Hindernisse im Fahrwasser,Vorübergehende Hindernisse im Fahrwasser
+c_c19af83a,HVD_c19af83a,Mobilität / Binnenschifffahrtsdatensätze / Wasserstraßenachse mit Kilometerangabe,Wasserstraßenachse mit Kilometerangabe
+c_e50004c6,HVD_e50004c6,"Mobilität / Binnenschifffahrtsdatensätze / Zustand der Flüsse, Kanäle, Schleusen und Brücken","Zustand der Flüsse, Kanäle, Schleusen und Brücken"
+c_4b74ea13,HVD_4b74ea13,Mobilität / Verkehrsnetze,Verkehrsnetze
+c_e1da4e07,HVD_e1da4e07,Statistik,Statistik
+c_04bf94a3,HVD_04bf94a3,Statistik / Armut,Armut
+c_4ac557e7,HVD_4ac557e7,Statistik / Ausgaben und Einnahmen des Staates,Ausgaben und Einnahmen des Staates
+c_f2b50efd,HVD_f2b50efd,Statistik / Bevölkerung,Bevölkerung
+c_317b9493,HVD_317b9493,"Statistik / Bevölkerung, Fertilität, Mortalität","Bevölkerung, Fertilität, Mortalität"
+c_fd4e881c,HVD_fd4e881c,Statistik / Erwerbslosigkeit,Erwerbslosigkeit
+c_a2c6dcd8,HVD_a2c6dcd8,Statistik / Erwerbstätigkeit,Erwerbstätigkeit
+c_6a7250c1,HVD_6a7250c1,Statistik / Fertilität,Fertilität
+c_c0022235,HVD_c0022235,Statistik / Harmonisierte Verbraucherpreisindizes,Harmonisierte Verbraucherpreisindizes
+c_2aed31f9,HVD_2aed31f9,Statistik / Industrieller Erzeugerpreisindex – Aufschlüsselung nach Tätigkeit,Industrieller Erzeugerpreisindex – Aufschlüsselung nach Tätigkeit
+c_34abf8c1,HVD_34abf8c1,Statistik / Industrieproduktion,Industrieproduktion
+c_dd8f4797,HVD_dd8f4797,Statistik / Konsolidierte Bruttoverschuldung des Staates,Konsolidierte Bruttoverschuldung des Staates
+c_424bb0b4,HVD_424bb0b4,Statistik / Laufende Gesundheitsausgaben,Laufende Gesundheitsausgaben
+c_4acb6bf3,HVD_4acb6bf3,Statistik / Mortalität,Mortalität
+c_23385471,HVD_23385471,Statistik / Potenzielle Arbeitskräfte,Potenzielle Arbeitskräfte
+c_20cd11bb,HVD_20cd11bb,"Statistik / Statistik des internationalen Warenverkehrs der EU – Ausfuhren und Einfuhren Aufschlüsselung gleichzeitig nach Partnern, Produkten und Warenströmen","Statistik des internationalen Warenverkehrs der EU – Ausfuhren und Einfuhren Aufschlüsselung gleichzeitig nach Partnern, Produkten und Warenströmen"
+c_a3767648,HVD_a3767648,Statistik / Tourismusströme in Europa,Tourismusströme in Europa
+c_92874eb2,HVD_92874eb2,Statistik / Umweltgesamtrechnungen und -statistiken,Umweltgesamtrechnungen und -statistiken
+c_a8b937c4,HVD_a8b937c4,Statistik / Ungleichheit,Ungleichheit
+c_a49ec591,HVD_a49ec591,Statistik / Verkaufsmengen nach Tätigkeit,Verkaufsmengen nach Tätigkeit
+c_b72b721f,HVD_b72b721f,Statistik / Volkswirtschaftliche Gesamtrechnungen – BIP-Hauptaggregate,Volkswirtschaftliche Gesamtrechnungen – BIP-Hauptaggregate
+c_95da87c7,HVD_95da87c7,Statistik / Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für Kapitalgesellschaften,Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für Kapitalgesellschaften
+c_59627af3,HVD_59627af3,Statistik / Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für private Haushalte,Volkswirtschaftliche Gesamtrechnungen – Schlüsselindikatoren für private Haushalte
+c_a9135398,HVD_a9135398,Unternehmen und Eigentümerschaft von Unternehmen,Unternehmen und Eigentümerschaft von Unternehmen
+c_56a1bf47,HVD_56a1bf47,Unternehmen und Eigentümerschaft von Unternehmen / Grundlegende Angaben zum Unternehmen: Schlüsselattribute,Grundlegende Angaben zum Unternehmen: Schlüsselattribute
+c_8f0fac04,HVD_8f0fac04,Unternehmen und Eigentümerschaft von Unternehmen / Unternehmensunterlagen und -abschlüsse,Unternehmensunterlagen und -abschlüsse

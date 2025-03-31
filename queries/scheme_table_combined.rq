@@ -1,13 +1,13 @@
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
-SELECT ?concept_id ?concept_label ?concept_path
+SELECT ?concept_id ?hvd_tag ?concept_path ?concept_label
 WHERE {
+    # Top concept
+    ?scheme
+        a skos:ConceptScheme ;
+        skos:hasTopConcept ?top_concept .
     {
-        # Top concept
-        ?scheme
-            a skos:ConceptScheme ;
-            skos:hasTopConcept ?top_concept .
 
         ?top_concept
             skos:prefLabel ?top_concept_label ;
@@ -63,5 +63,6 @@ WHERE {
         BIND(STRLANG(CONCAT(?top_concept_label, " / ", ?sub_concept_label, " / ", ?sub_sub_concept_label), "de") AS ?concept_path)
         BIND(?sub_sub_concept_label AS ?concept_label)
     }
+    BIND(CONCAT('HVD', SUBSTR(?concept_id, 2)) AS ?hvd_tag)
 }
-ORDER BY ?concept_label
+ORDER BY ?concept_path
