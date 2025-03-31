@@ -2,8 +2,8 @@
 
 Code for crawling the SKOS scheme for high-value dataset categories and creating alternative output representations.
 
-- [bin/crawl_scheme.py](bin/crawl_scheme.py): Start with the URI of the scheme itself, then continue by download the top-level concepts and their sub-concepts. Output a complete Turtle file.
-- [bin/skos2mermaid.py](bin/skos2mermaid.py): Convert the Turtle file with the SKOS scheme to a mermaid graph. Specify a language code to decide which language to use for the labels.
+- [bin/crawl_scheme.py](bin/crawl_scheme.py): Start with the URI of the scheme itself, then continue by download the top-level concepts and their sub-concepts. Output a complete [Turtle file](data/hvd_scheme.ttl).
+- [bin/skos2mermaid.py](bin/skos2mermaid.py): Convert the Turtle file with the SKOS scheme to a [mermaid graph](charts). Specify a language code to decide which language to use for the labels.
 - [queries/scheme_table_combined.rq](queries/scheme_table_combined.rq): Query the Turtle file with the SKOS scheme to generate a [CSV table](data/hvd_scheme.csv). Requires [Apache Jena command-line tools](https://jena.apache.org/documentation/tools/).
 
 ## Charts for various languages:
