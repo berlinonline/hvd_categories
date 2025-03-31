@@ -1,0 +1,67 @@
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT ?concept_id ?concept_label ?concept_path
+WHERE {
+    {
+        # Top concept
+        ?scheme
+            a skos:ConceptScheme ;
+            skos:hasTopConcept ?top_concept .
+
+        ?top_concept
+            skos:prefLabel ?top_concept_label ;
+            dc:identifier ?top_concept_id .
+
+        FILTER (lang(?top_concept_label) = "de")
+
+        BIND(?top_concept_id AS ?concept_id)
+        BIND(?top_concept_label AS ?concept_path)
+        BIND(?top_concept_label AS ?concept_label)
+    }
+    UNION
+    {
+        # Sub concept
+        ?top_concept
+            skos:prefLabel ?top_concept_label ;
+            dc:identifier ?top_concept_id ;
+            skos:narrower ?sub_concept .
+
+        ?sub_concept
+            skos:prefLabel ?sub_concept_label ;
+            dc:identifier ?sub_concept_id .
+
+        FILTER (lang(?top_concept_label) = "de")
+        FILTER (lang(?sub_concept_label) = "de")
+
+        BIND(?sub_concept_id AS ?concept_id)
+        BIND(STRLANG(CONCAT(?top_concept_label, " / ", ?sub_concept_label), "de") AS ?concept_path)
+        BIND(?sub_concept_label AS ?concept_label)
+    }
+    UNION
+    {
+        # Sub-sub concept
+        ?top_concept
+            skos:prefLabel ?top_concept_label ;
+            dc:identifier ?top_concept_id ;
+            skos:narrower ?sub_concept .
+
+        ?sub_concept
+            skos:prefLabel ?sub_concept_label ;
+            dc:identifier ?sub_concept_id ;
+            skos:narrower ?sub_sub_concept .
+        
+        ?sub_sub_concept
+            skos:prefLabel ?sub_sub_concept_label ;
+            dc:identifier ?sub_sub_concept_id .
+
+        FILTER (lang(?top_concept_label) = "de")
+        FILTER (lang(?sub_concept_label) = "de")
+        FILTER (lang(?sub_sub_concept_label) = "de")
+
+        BIND(?sub_sub_concept_id AS ?concept_id)
+        BIND(STRLANG(CONCAT(?top_concept_label, " / ", ?sub_concept_label, " / ", ?sub_sub_concept_label), "de") AS ?concept_path)
+        BIND(?sub_sub_concept_label AS ?concept_label)
+    }
+}
+ORDER BY ?concept_label

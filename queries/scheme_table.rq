@@ -1,0 +1,27 @@
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT ?top_concept_id ?top_concept_label ?sub_concept_id ?sub_concept_label
+WHERE {
+    ?scheme
+        a skos:ConceptScheme ;
+        skos:prefLabel ?scheme_label ;
+        skos:hasTopConcept ?top_concept ;
+    .
+
+    ?top_concept
+        skos:prefLabel ?top_concept_label ;
+        dc:identifier ?top_concept_id ;
+        skos:narrower ?sub_concept ;
+    .
+    
+    ?sub_concept
+        skos:prefLabel ?sub_concept_label ;
+        dc:identifier ?sub_concept_id ;
+    .
+
+    FILTER (lang(?top_concept_label) = "de")
+    FILTER (lang(?sub_concept_label) = "de")
+}
+ORDER BY ?top_concept_label ?sub_concept_label
+ 

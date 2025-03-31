@@ -1,6 +1,9 @@
 data/hvd_scheme.ttl:
 	python bin/crawl_scheme.py > $@
 
+data/hvd_scheme.csv: data/hvd_scheme.ttl
+	arq --query queries/scheme_table_combined.rq --data $< --results=CSV > $@
+
 charts/hvd_scheme_%.md: data/hvd_scheme.ttl
 	python bin/skos2mermaid.py --scheme_path=$< --lang="$*" > $@
 
